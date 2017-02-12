@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  background: white;
+  font-family: 'Playfair Display', sans-serif; }
+
+.container {
+  display: inline-block;
+  background: #c6e09f;
+  width: 480px;
+  height: 280px;
+  margin: 10px;
+  padding: 30px 0 0 20px; }
+
+h3 {
+  margin-left: 16px; }
+
+h4 {
+  margin-left: 16px; }
+
+li {
+  margin-left: 24px; }
+
+h5 {
+  margin-left: 16px; }
+
+/*# sourceMappingURL=styles.css.map */
